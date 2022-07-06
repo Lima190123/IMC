@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(28, 28, 86);
+}
+
+.imctitulo {
+    
+    border-radius: 20px;
+    margin: auto;
+    background-color: black;
+    height: 400px;
+    width: 500px;
+}
+
+.imctitulo>h1 {
+    
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.imctitulo>p {
+    margin-top: 50px;
+    margin-left: 20px;
+    color: white;
+}
+div#res {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+#txtaltura {
+    margin-left: 10px;
+}
+#txtpeso {
+    margin-left: 10px;
+}
+.imccalculo {
+    margin-left: 10px;
+}
+

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+
+section>h1,p {
+    font-family: 'Nixie One', cursive;
+}
+#res {
+    font-family: 'Nixie One', cursive;
+}
+footer {
+    font-family: 'Nixie One', cursive;
+    text-align: center;
+    color: white;
+}
